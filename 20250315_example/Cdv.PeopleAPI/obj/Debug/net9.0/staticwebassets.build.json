@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0wCUm7K4t2wJCc+tLMV5Xu+tjNi2cqsCOPvApTxEiyQ=",
+  "Source": "Cdv.PeopleAPI",
+  "BasePath": "_content/Cdv.PeopleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
