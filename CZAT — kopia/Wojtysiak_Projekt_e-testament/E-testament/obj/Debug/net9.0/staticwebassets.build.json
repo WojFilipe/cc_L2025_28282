@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "ebijfv77MGAOaPQ6ILY5DLnydEsGp4zgGu8f+f3DFbo=",
+  "Source": "E-testament",
+  "BasePath": "_content/E-testament",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-testament\\wwwroot",
+      "Source": "E-testament",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\",
+      "BasePath": "_content/E-testament",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\cf6nbckpre-2pevgq8s8y.gz",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "style#[.{fingerprint=2pevgq8s8y}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0nh6l4qmj0",
+      "Integrity": "NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\jy2ow2ssvq-zb5uxx1s9w.gz",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "index#[.{fingerprint=zb5uxx1s9w}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2ymvkwt3w0",
+      "Integrity": "FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\qvp1bkkw41-5bv8ecob0i.gz",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "chat#[.{fingerprint=5bv8ecob0i}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a4jnjs1bun",
+      "Integrity": "dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "chat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5bv8ecob0i",
+      "Integrity": "gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zb5uxx1s9w",
+      "Integrity": "f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css",
+      "SourceId": "E-testament",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\",
+      "BasePath": "_content/E-testament",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2pevgq8s8y",
+      "Integrity": "2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "chat.5bv8ecob0i.js",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\qvp1bkkw41-5bv8ecob0i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001144164760"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bv8ecob0i"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY="
+        }
+      ]
+    },
+    {
+      "Route": "chat.5bv8ecob0i.js",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bv8ecob0i"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY="
+        }
+      ]
+    },
+    {
+      "Route": "chat.5bv8ecob0i.js.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\qvp1bkkw41-5bv8ecob0i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bv8ecob0i"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A="
+        }
+      ]
+    },
+    {
+      "Route": "chat.js",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\qvp1bkkw41-5bv8ecob0i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001144164760"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY="
+        }
+      ]
+    },
+    {
+      "Route": "chat.js",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ7Lo87AIIt/CHLuT33UeHJosu44ansdfqBWnlRiUsY="
+        }
+      ]
+    },
+    {
+      "Route": "chat.js.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\qvp1bkkw41-5bv8ecob0i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dowYFBl96FyaaiGnW05XlY2cwDBbURvoeDZnTPWgj8A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\jy2ow2ssvq-zb5uxx1s9w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002320185615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\jy2ow2ssvq-zb5uxx1s9w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.zb5uxx1s9w.html",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\jy2ow2ssvq-zb5uxx1s9w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002320185615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zb5uxx1s9w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.zb5uxx1s9w.html",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zb5uxx1s9w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f2tZLEGDhoFn6H1LAVzUZgM0IqPH4BJxPMzMwqlCL8Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.zb5uxx1s9w.html.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\jy2ow2ssvq-zb5uxx1s9w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zb5uxx1s9w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FtYUoj7/6WrUnZP/L4cHeUtuJuGF5XNpNdA1CLn6jiQ="
+        }
+      ]
+    },
+    {
+      "Route": "style.2pevgq8s8y.css",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\cf6nbckpre-2pevgq8s8y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pevgq8s8y"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q="
+        }
+      ]
+    },
+    {
+      "Route": "style.2pevgq8s8y.css",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pevgq8s8y"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q="
+        }
+      ]
+    },
+    {
+      "Route": "style.2pevgq8s8y.css.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\cf6nbckpre-2pevgq8s8y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pevgq8s8y"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\cf6nbckpre-2pevgq8s8y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2msTbF4Sskj05mdRBWPWnankCn1htuA9cPBMo1NzN3Q="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\CZAT\\Wojtysiak_Projekt_e-testament\\E-testament\\obj\\Debug\\net9.0\\compressed\\cf6nbckpre-2pevgq8s8y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHyiue5dI9vkTpGCPI2QkbVlUqawncaDnPrzb6kMXQM="
+        }
+      ]
+    }
+  ]
+}

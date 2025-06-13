@@ -1,0 +1,6 @@
+@E_testament_HostAddress = http://localhost:5215
+
+GET {{E_testament_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

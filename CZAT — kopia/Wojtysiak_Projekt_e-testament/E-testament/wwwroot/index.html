@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LiveChat</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script src="chat.js" defer></script>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">LiveChat 🚀</div>
+        <div id="messages" class="messages"></div>
+
+        <div class="chat-inputs">
+            <input type="text" id="username" placeholder="Twoje imię">
+            <input type="text" id="message" placeholder="Wiadomość">
+            <button id="sendButton">Wyślij</button>
+        </div>
+    </div>
+</body>
+</html>
