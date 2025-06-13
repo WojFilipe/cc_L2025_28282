@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ah/PO8VnO9s=",
+  "dgSpecHash": "Su757K9U6mg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Pulpit\\studia\\20250315_example\\Cdv.PeopleAPI\\Cdv.PeopleAPI.csproj",
+  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Dokumenty\\GitHub\\cc_L2025_28282\\20250315_example\\Cdv.PeopleAPI\\Cdv.PeopleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
