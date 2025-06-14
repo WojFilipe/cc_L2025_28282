@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\filip\\OneDrive\\Pulpit\\projket ziemiński\\CZAT — kopia\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\chat.js",
+      "PackagePath": "staticwebassets\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\filip\\OneDrive\\Pulpit\\projket ziemiński\\CZAT — kopia\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\filip\\OneDrive\\Pulpit\\projket ziemiński\\CZAT — kopia\\Wojtysiak_Projekt_e-testament\\E-testament\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E-testament.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E-testament.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.E-testament.props",
+      "PackagePath": "build\\E-testament.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.E-testament.props",
+      "PackagePath": "buildMultiTargeting\\E-testament.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.E-testament.props",
+      "PackagePath": "buildTransitive\\E-testament.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
